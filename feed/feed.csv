@@ -1,0 +1,7 @@
+name,notes,extra
+john,Call me at +1 415-555-0133 or 415.555.0199,random
+maria,"old email maria_at_example.com but now maria.smith@example.com",n/a
+"just text","Reach: dev+alerts@service.io; backup: ops@service.io",42
+,,"lost phone 202-555-0110, alt 202 555 0144"
+"broken row" "email" "person@site.net" "555-0101"
+"messy";"email: alpha.beta@domain.co";"phone 303-555-0198"

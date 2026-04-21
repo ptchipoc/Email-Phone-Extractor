@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "A. Doe",
+      "contact": "email: a.doe@example.org, phone: +44 20 7946 0958",
+      "notes": "mixing text and numbers 1234"
+    },
+    {
+      "name": "B-User",
+      "contact": "b_user@example.net; alt 555-0191",
+      "tags": ["messy", "data", "555 0123"]
+    },
+    "raw string with email raw.person@site.com and phone 212-555-0117",
+    {
+      "meta": {
+        "info": "support@help.io / 800-555-0120"
+      }
+    }
+  ],
+  "misc": "call 617.555.0135 or email drift.user+test@domain.com",
+  "numbers": ["no phone", "900-555-0199", "text user@mail.example"]
+}
